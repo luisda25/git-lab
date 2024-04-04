@@ -5,7 +5,13 @@ Luis Daniel Filorio Luna
 ## Contents
 ### Images
 ![Imagén de mimikyu](OIP.jpg)
-### 2
+### Code examples
+```
+n = 2
+m = 3
+sum = n + m
+print(sum)
+```
 ### 3
 ## References
 [Github documentation](https://docs.github.com/en)

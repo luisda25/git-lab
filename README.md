@@ -12,7 +12,10 @@ m = 3
 sum = n + m
 print(sum)
 ```
-### 3
+### Lists
+- Turn on GutHub Pages
+- Outline my portfolio
+- Introduce myself to the world
 ## References
 [Github documentation](https://docs.github.com/en)
 [Github glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary)

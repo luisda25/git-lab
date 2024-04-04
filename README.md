@@ -4,6 +4,7 @@ This is a Git practice laboratory para practicar con Github.
 Luis Daniel Filorio Luna
 ## Contents
 ### Images
+![Imagén de mimikyu](OIP.jpg)
 ### 2
 ### 3
 ## References

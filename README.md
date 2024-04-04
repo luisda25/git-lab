@@ -5,6 +5,7 @@ Luis Daniel Filorio Luna
 ## Contents
 ### Images
 ![Imagén de mimikyu](OIP.jpg)
+![Imagén de Garchomp](https://th.bing.com/th/id/OIP.74sq67yiaWFJHPTJIYIhtAHaGL?rs=1&pid=ImgDetMain)
 ### Code examples
 ```
 n = 2
